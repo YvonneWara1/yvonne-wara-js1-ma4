@@ -1,0 +1,37 @@
+.error {
+    color: red;
+    display: none;
+}
+
+#contactForm {
+    padding: 20px;
+}
+
+.results  {
+    display: block;
+    color: rgb(0, 0, 0);
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 200px;
+    background: rgb(170, 167, 167);
+    justify-content: space-evenly;
+}
+
+img {
+    max-width: 100%;
+}
+
+div {
+    font-size: 20px;
+    font-weight: bold;
+}
+p {
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.game-style {
+    display: block;
+    max-width: 400px;
+    padding: 1rem;
+}
